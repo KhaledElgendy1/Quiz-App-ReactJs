@@ -63,7 +63,7 @@ Ensure you have the following installed:
 
     Visit [http://localhost:3000](http://localhost:3000) to see your Next.js application running locally.
    
-    Alternatively, you can access the live version of the website here: [Live Bookstore](https://elgendy-quiz-app.netlify.app/).
+    Alternatively, you can access the live version of the website here: [Live Quiz App](https://elgendy-quiz-app.netlify.app/).
 
 ![image](https://github.com/user-attachments/assets/983905e7-4d62-4c50-a632-bf2417fc6278)
 
