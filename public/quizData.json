@@ -1,0 +1,126 @@
+{
+    "quizTitle": "General Knowledge Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "id": 3,
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "id": 4,
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Charles Dickens", "Leo Tolstoy", "Mark Twain", "William Shakespeare"],
+        "answer": "William Shakespeare"
+      },
+      {
+        "id": 5,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Silver"],
+        "answer": "Diamond"
+      },
+      {
+        "id": 6,
+        "question": "Which country is home to the kangaroo?",
+        "options": ["India", "Brazil", "Australia", "South Africa"],
+        "answer": "Australia"
+      },
+      {
+        "id": 7,
+        "question": "What is the chemical symbol for water?",
+        "options": ["HO", "H2O", "H2O2", "O2"],
+        "answer": "H2O"
+      },
+      {
+        "id": 8,
+        "question": "Who is known as the father of computers?",
+        "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+        "answer": "Charles Babbage"
+      },
+      {
+        "id": 9,
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": ["Germany", "Brazil", "France", "Argentina"],
+        "answer": "France"
+      },
+      {
+        "id": 10,
+        "question": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "K2", "Mount Everest", "Mount Fuji"],
+        "answer": "Mount Everest"
+      },
+      {
+        "id": 11,
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1914", "1916", "1920"],
+        "answer": "1912"
+      },
+      {
+        "id": 12,
+        "question": "Which is the smallest continent by land area?",
+        "options": ["Europe", "Antarctica", "Australia", "South America"],
+        "answer": "Australia"
+      },
+      {
+        "id": 13,
+        "question": "What is the capital city of Japan?",
+        "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+        "answer": "Tokyo"
+      },
+      {
+        "id": 14,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 15,
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Earth", "Mercury", "Mars"],
+        "answer": "Mercury"
+      },
+      {
+        "id": 16,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Osmium", "Oxide"],
+        "answer": "Oxygen"
+      },
+      {
+        "id": 17,
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+      },
+      {
+        "id": 18,
+        "question": "Which country is famous for inventing the pizza?",
+        "options": ["Spain", "France", "Italy", "Greece"],
+        "answer": "Italy"
+      },
+      {
+        "id": 19,
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "options": ["Tiger", "Elephant", "Lion", "Bear"],
+        "answer": "Lion"
+      },
+      {
+        "id": 20,
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+      }
+    ]
+  }
+  
